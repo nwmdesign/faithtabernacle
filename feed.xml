@@ -3,7 +3,7 @@
     <title>Faith Tabernacle Church</title>
     <link href="https://nwmdesign.github.io/faithtabernacle/feed.xml" rel="self" />
     <link href="https://nwmdesign.github.io/faithtabernacle" />
-    <updated>2026-07-18T18:21:26-05:00</updated>
+    <updated>2026-07-18T18:36:29-05:00</updated>
     <author>
         <name>nwmdesigns</name>
     </author>
@@ -145,6 +145,8 @@
         </author>
         <link href="https://nwmdesign.github.io/faithtabernacle/overwhelmed-by-sovereign-grace.html"/>
         <id>https://nwmdesign.github.io/faithtabernacle/overwhelmed-by-sovereign-grace.html</id>
+            <category term="Romans"/>
+            <category term="Grace"/>
 
         <updated>2026-05-10T10:00:00-05:00</updated>
             <summary type="html">
@@ -165,11 +167,14 @@
         </author>
         <link href="https://nwmdesign.github.io/faithtabernacle/christ-is-the-source-and-the-sustainer-of-all-things.html"/>
         <id>https://nwmdesign.github.io/faithtabernacle/christ-is-the-source-and-the-sustainer-of-all-things.html</id>
+            <category term="The Supremacy of Christ"/>
+            <category term="Knowing Christ"/>
+            <category term="Colossians"/>
 
         <updated>2026-05-03T10:00:00-05:00</updated>
             <summary type="html">
                 <![CDATA[
-                    Sermon Description Title: Christ is the Source and the Sustainer of All Things Topic/Scripture: Colossians 1:15-20 Date: May 3, 2026View Related Sermons
+                    Sermon Description Topic/Scripture: Colossians 1:15-20 Date: May 3, 2026 View Related Sermons
                 ]]>
             </summary>
         <content type="html">
@@ -177,9 +182,9 @@
                 <div class="post__iframe"><iframe loading="lazy" width="700" height="400" src="https://www.youtube.com/embed/vWIb2cgzovE?si=0nIz86lCVfZ5Px-d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
 <h2 id="sermon-description">Sermon Description</h2>
-<p><strong>Title:</strong>  Christ is the Source and the Sustainer of All Things
-<strong>Topic/Scripture:</strong> Colossians 1:15-20
-<strong>Date:</strong> May 3, 2026</p><h2 id="view-related-sermons">View Related Sermons</h2>
+<h3 id="topicscripture-colossians-115-20">Topic/Scripture: Colossians 1:15-20</h3>
+<h4 id="date-may-3-2026"><strong>Date: May 3, 2026</strong></h4>
+<h2 id="view-related-sermons">View Related Sermons</h2>
 
             ]]>
         </content>
