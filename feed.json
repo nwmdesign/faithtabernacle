@@ -45,23 +45,27 @@
                 "name": "nwmdesigns"
             },
             "tags": [
+                   "1 Peter"
             ],
             "date_published": "2026-07-12T23:28:00-05:00",
-            "date_modified": "2026-07-17T23:35:40-05:00"
+            "date_modified": "2026-07-18T11:22:02-05:00"
         },
         {
-            "id": "https://nwmdesign.github.io/faithtabernacle/sample-sermon.html",
-            "url": "https://nwmdesign.github.io/faithtabernacle/sample-sermon.html",
+            "id": "https://nwmdesign.github.io/faithtabernacle/clothe-yourself-in-humility.html",
+            "url": "https://nwmdesign.github.io/faithtabernacle/clothe-yourself-in-humility.html",
             "title": "Clothe Yourself in Humility",
             "summary": "Sermon Description Larry Moore - 1 Peter 5:1-11 - July 5, 2026 Posture reveals what the heart is doing long before the mouth&hellip;",
-            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/SBzILHwicwA?si=tHPs6b9xbjet08Gk\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe></div>\n\n<h2 id=\"sermon-description\">Sermon Description</h2>\n<p><strong>Larry Moore  -  1 Peter 5:1-11 - July 5, 2026</strong></p><p>Posture reveals what the heart is doing long before the mouth ever speaks…the way you position your heart determines whether you stand or fall. Humility is how believers stand firm—under God’s hand, against the enemy, and through suffering.</p><h2 id=\"view-related-sermons\">View Related Sermons</h2>\n",
+            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"700\" height=\"400\" src=\"https://www.youtube.com/embed/SBzILHwicwA?si=tHPs6b9xbjet08Gk\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe></div>\n\n<h2 id=\"sermon-description\">Sermon Description</h2>\n<p><strong>Larry Moore  -  1 Peter 5:1-11 - July 5, 2026</strong></p><p>Posture reveals what the heart is doing long before the mouth ever speaks…the way you position your heart determines whether you stand or fall. Humility is how believers stand firm—under God’s hand, against the enemy, and through suffering.</p><h2 id=\"view-related-sermons\">View Related Sermons</h2>\n",
+            "image": "https://nwmdesign.github.io/faithtabernacle/media/posts/8/Clothe-Yourself-in-Humility.png",
             "author": {
                 "name": "nwmdesigns"
             },
             "tags": [
+                   "Humility",
+                   "1 Peter"
             ],
             "date_published": "2026-07-05T23:47:00-05:00",
-            "date_modified": "2026-07-18T00:01:33-05:00"
+            "date_modified": "2026-07-18T11:41:54-05:00"
         }
     ]
 }
