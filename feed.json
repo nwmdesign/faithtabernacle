@@ -10,47 +10,6 @@
     },
     "items": [
         {
-            "id": "https://nwmdesign.github.io/faithtabernacle/sample-post.html",
-            "url": "https://nwmdesign.github.io/faithtabernacle/sample-post.html",
-            "title": "Sample Post",
-            "author": {
-                "name": "nwmdesigns"
-            },
-            "tags": [
-                   "New",
-                   "July 2026"
-            ],
-            "date_published": "2026-07-17T23:27:00-05:00",
-            "date_modified": "2026-07-17T23:28:58-05:00"
-        },
-        {
-            "id": "https://nwmdesign.github.io/faithtabernacle/clothe-yourself-with-humility.html",
-            "url": "https://nwmdesign.github.io/faithtabernacle/clothe-yourself-with-humility.html",
-            "title": "Clothe Yourself With Humility",
-            "summary": "1 Peter 5:1-11 July 5, 2026",
-            "content_html": "<p>1 Peter 5:1-11 July 5, 2026</p>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"672\" height=\"377\" style=\"width: 672px; height: 377px;\" src=\"https://www.youtube.com/embed/SBzILHwicwA?si=LUDpjpnp_NoSni15\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
-            "author": {
-                "name": "nwmdesigns"
-            },
-            "tags": [
-            ],
-            "date_published": "2026-07-17T23:19:14-05:00",
-            "date_modified": "2026-07-17T23:21:58-05:00"
-        },
-        {
-            "id": "https://nwmdesign.github.io/faithtabernacle/new-post.html",
-            "url": "https://nwmdesign.github.io/faithtabernacle/new-post.html",
-            "title": "New Post",
-            "author": {
-                "name": "nwmdesigns"
-            },
-            "tags": [
-                   "1 Peter"
-            ],
-            "date_published": "2026-07-12T23:28:00-05:00",
-            "date_modified": "2026-07-18T11:22:02-05:00"
-        },
-        {
             "id": "https://nwmdesign.github.io/faithtabernacle/clothe-yourself-in-humility.html",
             "url": "https://nwmdesign.github.io/faithtabernacle/clothe-yourself-in-humility.html",
             "title": "Clothe Yourself in Humility",
@@ -65,7 +24,105 @@
                    "1 Peter"
             ],
             "date_published": "2026-07-05T23:47:00-05:00",
-            "date_modified": "2026-07-18T11:41:54-05:00"
+            "date_modified": "2026-07-18T18:08:02-05:00"
+        },
+        {
+            "id": "https://nwmdesign.github.io/faithtabernacle/partners-in-the-gospel.html",
+            "url": "https://nwmdesign.github.io/faithtabernacle/partners-in-the-gospel.html",
+            "title": "Partners in the Gospel",
+            "summary": "Phillipians 1:3-11",
+            "content_html": "<p>Phillipians 1:3-11</p>",
+            "author": {
+                "name": "nwmdesigns"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-06-28T10:00:00-05:00",
+            "date_modified": "2026-07-18T18:21:26-05:00"
+        },
+        {
+            "id": "https://nwmdesign.github.io/faithtabernacle/the-good-shepherd.html",
+            "url": "https://nwmdesign.github.io/faithtabernacle/the-good-shepherd.html",
+            "title": "The Good Shepherd",
+            "summary": "John 10:1-11",
+            "content_html": "<p>John 10:1-11</p>",
+            "author": {
+                "name": "nwmdesigns"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-06-21T10:00:00-05:00",
+            "date_modified": "2026-07-18T18:20:17-05:00"
+        },
+        {
+            "id": "https://nwmdesign.github.io/faithtabernacle/the-ordinary-means-of-grace.html",
+            "url": "https://nwmdesign.github.io/faithtabernacle/the-ordinary-means-of-grace.html",
+            "title": "The Ordinary Means of Grace",
+            "summary": "Acts 2:42-47",
+            "content_html": "<p>Acts 2:42-47</p>",
+            "author": {
+                "name": "nwmdesigns"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-06-14T10:00:00-05:00",
+            "date_modified": "2026-07-18T18:18:36-05:00"
+        },
+        {
+            "id": "https://nwmdesign.github.io/faithtabernacle/the-lord-is-my-shepherd.html",
+            "url": "https://nwmdesign.github.io/faithtabernacle/the-lord-is-my-shepherd.html",
+            "title": "The Lord is My Shepherd",
+            "summary": "Psalm 23",
+            "content_html": "<p>Psalm 23</p>",
+            "author": {
+                "name": "nwmdesigns"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-06-07T10:00:00-05:00",
+            "date_modified": "2026-07-18T18:17:28-05:00"
+        },
+        {
+            "id": "https://nwmdesign.github.io/faithtabernacle/the-god-who-goes-before-you.html",
+            "url": "https://nwmdesign.github.io/faithtabernacle/the-god-who-goes-before-you.html",
+            "title": "The God Who Goes Before You",
+            "summary": "Deuteronomy 31:1-8",
+            "content_html": "<p>Deuteronomy 31:1-8</p>",
+            "author": {
+                "name": "nwmdesigns"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-05-31T10:00:00-05:00",
+            "date_modified": "2026-07-18T18:15:36-05:00"
+        },
+        {
+            "id": "https://nwmdesign.github.io/faithtabernacle/overwhelmed-by-sovereign-grace.html",
+            "url": "https://nwmdesign.github.io/faithtabernacle/overwhelmed-by-sovereign-grace.html",
+            "title": "Overwhelmed by Sovereign Grace",
+            "summary": "Romans 11:33-36",
+            "content_html": "<p>Romans 11:33-36</p>",
+            "author": {
+                "name": "nwmdesigns"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-05-10T10:00:00-05:00",
+            "date_modified": "2026-07-18T18:14:20-05:00"
+        },
+        {
+            "id": "https://nwmdesign.github.io/faithtabernacle/christ-is-the-source-and-the-sustainer-of-all-things.html",
+            "url": "https://nwmdesign.github.io/faithtabernacle/christ-is-the-source-and-the-sustainer-of-all-things.html",
+            "title": "Christ is the Source and the Sustainer of All Things",
+            "summary": "Sermon Description Title: Christ is the Source and the Sustainer of All Things Topic/Scripture: Colossians 1:15-20 Date: May 3, 2026View Related Sermons",
+            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"700\" height=\"400\" src=\"https://www.youtube.com/embed/vWIb2cgzovE?si=0nIz86lCVfZ5Px-d\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe></div>\n\n<h2 id=\"sermon-description\">Sermon Description</h2>\n<p><strong>Title:</strong>  Christ is the Source and the Sustainer of All Things\n<strong>Topic/Scripture:</strong> Colossians 1:15-20\n<strong>Date:</strong> May 3, 2026</p><h2 id=\"view-related-sermons\">View Related Sermons</h2>\n",
+            "author": {
+                "name": "nwmdesigns"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-05-03T10:00:00-05:00",
+            "date_modified": "2026-07-18T18:12:31-05:00"
         }
     ]
 }
