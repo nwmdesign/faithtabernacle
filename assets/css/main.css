@@ -3092,3 +3092,16 @@ hr::before,
     visibility: visible;
   }
 }
+
+
+.post-header-empty {
+   height: 8rem;
+}
+
+#header.post-header-empty {
+   padding: 3rem 0;
+}
+
+#header.post-header-empty {
+    height: 8rem;
+}
